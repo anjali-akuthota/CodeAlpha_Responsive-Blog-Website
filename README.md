@@ -7,7 +7,7 @@ Welcome to Trend Blogger! This is a blogging platform focused on the latest tren
 * CSS
 *  JavaScript
 
-#Features
+# Features
 
 * Trending topics
 * About Us 
